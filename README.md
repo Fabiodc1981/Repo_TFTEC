@@ -19,3 +19,5 @@ Teste 04/12/2025-2
 1. Executar script `deploy-v2.sh`
 2. Verficar logs em `/var/log/deploy.log`
 3. Validar endpoints de saúde
+
+# Agora vai
