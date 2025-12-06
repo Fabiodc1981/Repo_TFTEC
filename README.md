@@ -14,3 +14,9 @@ Teste direto na main
 Alteração via PR
 Teste 04/12/2025
 Teste 04/12/2025-2
+
+## Instruções de Deploy v2
+1. Executar script `deploy-v2.sh`
+2. Verficar logs em `/var/log/deploy.log`
+3. Validar endpoints de saúde
+
