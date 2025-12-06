@@ -14,9 +14,3 @@ Teste direto na main
 Alteração via PR
 Teste 04/12/2025
 Teste 04/12/2025-2
-
-## Configurações do Sistema 
-- Ambiente: Produção
-- Porta: 8080
-- Timeout: 30s
-- Max conections: 1000
