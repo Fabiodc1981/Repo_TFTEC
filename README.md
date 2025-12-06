@@ -15,6 +15,7 @@ Alteração via PR
 Teste 04/12/2025
 Teste 04/12/2025-2
 
+
 ## Configurações do Sistema 
 - Ambiente: Produção
 - Porta: 8080
@@ -22,3 +23,9 @@ Teste 04/12/2025-2
 - Max conections: 1000
 
 # Agora vai que vai
+
+## Instruções de Deploy v2
+1. Executar script `deploy-v2.sh`
+2. Verficar logs em `/var/log/deploy.log`
+3. Validar endpoints de saúde
+
