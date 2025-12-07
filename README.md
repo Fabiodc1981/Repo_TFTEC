@@ -20,4 +20,4 @@ Teste 04/12/2025-2
 2. Verficar logs em `/var/log/deploy.log`
 3. Validar endpoints de saúde
 
-# Agora vai
+- Health check: /Health
