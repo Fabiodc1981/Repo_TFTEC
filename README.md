@@ -15,9 +15,17 @@ Alteração via PR
 Teste 04/12/2025
 Teste 04/12/2025-2
 
+## Configurações do Sistema 
+- Ambiente: Produção
+- Porta: 8080
+- Timeout: 30s
+- Max conections: 1000
+
 ## Instruções de Deploy v2
 1. Executar script `deploy-v2.sh`
 2. Verficar logs em `/var/log/deploy.log`
 3. Validar endpoints de saúde
 
+
 - Health check: /Health
+# Correção README
