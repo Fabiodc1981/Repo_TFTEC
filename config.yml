@@ -2,3 +2,4 @@
 emergency_mode: true
 max_retries: 5
 Timeout: 30
+port: 3000
